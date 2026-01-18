@@ -18,4 +18,7 @@ This script will provide Defender Client Health Status including the below detai
 11. RealTimeProtectionEnabled 
 12. SignatureFallbackOrder 
 13. SignatureScheduleTime 
-14. SignatureUpdateCatchupInterval 
+14. SignatureUpdateCatchupInterval
+
+
+<img width="1327" height="203" alt="DefenderHealthStatusScreenShot" src="https://github.com/user-attachments/assets/e6f2e233-9129-477c-96fc-c963a746ecd6" />
