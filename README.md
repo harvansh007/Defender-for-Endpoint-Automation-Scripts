@@ -1,5 +1,3 @@
-# Defender-for-Endpoint-Automation-Scripts
-
 <h1 align="center">Hi 👋, I'm Harvansh Singh</h1>
 <h3 align="center"> Wellcome to my "Defender-for-Endpoint-Automation-Scripts"</h3>
 
