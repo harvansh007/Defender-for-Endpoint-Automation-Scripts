@@ -22,11 +22,11 @@
 
 <h3 align="center">===== 🔒 Prerequisites ===== </h3>
 
-Run PowerShell as Administrator.
-Your account must have local admin rights on the remote computer(s).
-PowerShell Remoting enabled on target machines (for remote runs).
-Network and firewall must allow WinRM/PowerShell remoting.
-Microsoft Defender Antivirus must be installed/enabled on the target(s).
+1. Run PowerShell as Administrator.
+2. Your account must have local admin rights on the remote computer(s).
+3. PowerShell Remoting enabled on target machines (for remote runs).
+4. Network and firewall must allow WinRM/PowerShell remoting.
+5. Microsoft Defender Antivirus must be installed/enabled on the target(s).
 
 
 <img width="1327" height="203" alt="DefenderHealthStatusScreenShot" src="https://github.com/user-attachments/assets/e6f2e233-9129-477c-96fc-c963a746ecd6" />
