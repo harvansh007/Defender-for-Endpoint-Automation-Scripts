@@ -3,7 +3,7 @@
 
 <h3 align="center">===== PowerShell — Generate Microsoft Defender Antivirus Health Status Report (HTML) ===== </h3>
 
-This script will provide Defender Client Health Status including the below details.
+✅ What the Report Includes
 
 1. S.No
 2. ComputerName
@@ -19,6 +19,14 @@ This script will provide Defender Client Health Status including the below detai
 12. SignatureFallbackOrder 
 13. SignatureScheduleTime 
 14. SignatureUpdateCatchupInterval
+
+<h3 align="center">===== 🔒 Prerequisites ===== </h3>
+
+Run PowerShell as Administrator.
+Your account must have local admin rights on the remote computer(s).
+PowerShell Remoting enabled on target machines (for remote runs).
+Network and firewall must allow WinRM/PowerShell remoting.
+Microsoft Defender Antivirus must be installed/enabled on the target(s).
 
 
 <img width="1327" height="203" alt="DefenderHealthStatusScreenShot" src="https://github.com/user-attachments/assets/e6f2e233-9129-477c-96fc-c963a746ecd6" />
