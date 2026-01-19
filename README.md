@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harvansh Singh</h1>
 <h3 align="center"> Wellcome to my "Defender-for-Endpoint-Automation-Scripts"</h3>
 
-<h3 align="center">+++++++++++ Defender for Endpoint Clinet Health Status ++++++++++++ </h3>
+<h3 align="center">+++++++++++ Defender for Endpoint Clinet Health Status +++++++++++ </h3>
 
 This script will provide Defender Client Health Status including the below details.
 
