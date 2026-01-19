@@ -28,5 +28,6 @@
 4. Network and firewall must allow WinRM/PowerShell remoting.
 5. Microsoft Defender Antivirus must be installed/enabled on the target(s).
 
+<h3 align="center">===== 🧾 Sample HTML Output (preview) ===== </h3>
 
 <img width="1327" height="203" alt="DefenderHealthStatusScreenShot" src="https://github.com/user-attachments/assets/e6f2e233-9129-477c-96fc-c963a746ecd6" />
